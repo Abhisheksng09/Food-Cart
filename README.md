@@ -1,7 +1,7 @@
 # Food-Cart
 Food-cart is a web application built using HTML, CSS, JavaScript, React.js, and Tailwind CSS. It leverages live Swiggy APIs to display real-time data about restaurants near the user, categorizes dishes, and provides a seamless experience for exploring and ordering food.
 
-Features
+# Features
 Seamless Navigation
 With React Router DOM, the app ensures smooth navigation, allowing users to explore different sections seamlessly. From discovering restaurants to adding items to the cart, the user experience remains uninterrupted.
 
